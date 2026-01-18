@@ -10,14 +10,10 @@
   ],
   "description": "A Haxe/Lime extension that incorporates Java functions through JNI.",
   "version": "2.2.2",
-  "releasenote": "Custom fork with Lime 8.3.0 compatibility.",
+  "releasenote": "Custom fork of extension-androidtools to fnf mobiles ports",
   "contributors": [
     "MAJigsaw77",
-    "SatoruSam"
+    "TheFrost72"
   ],
-  "dependencies": {
-    "hxcpp": "4.3.2",
-    "lime": "8.3.0"
-  },
   "classPath": "src"
 }
